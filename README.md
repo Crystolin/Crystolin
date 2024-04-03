@@ -29,9 +29,9 @@
 <br/>
 <br>
 
-[<img align="center" alt="Shaurya | Linkedln" width="40px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" />][linkedin]
-[<img align="center" alt="Shaurya | Instagram" width="40px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" />][instagram]
-[<img align="center" alt="Shaurya | Gmail" width="50px" src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-512.png"/>][gmail]
+[<img align="center" alt="Shaurya | Linkedln" width="40px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" <a href="https://www.linkedin.com/in/svs2001/">/>][linkedin]
+[<img align="center" alt="Shaurya | Instagram" width="40px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" <a href="https://www.instagram.com/_what_shaurya/">/>][instagram]
+[<img align="center" alt="Shaurya | Gmail" width="50px" src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-512.png" <a href="https://mail.google.com/mail/u/0/#inbox">/>][gmail]
 </h1>
 
 <h1 align="center">Github Stats 📈
