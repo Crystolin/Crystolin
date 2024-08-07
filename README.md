@@ -9,7 +9,7 @@
 <h3>
 
 - 🔭 I’m currently looking for an internship
-- 👯 I’m looking to collaborate on projects based on Java, JavaScript, and DSA
+- 👯 I’m looking to collaborate on projects based on Java, SpringBoot and DSA
 - 💬 Ask me about anything JAVA and DSA
 - 📫 How to reach me: On any of my socials
 - ⚡ Fun fact: I consider my vocals as the best instrument!
